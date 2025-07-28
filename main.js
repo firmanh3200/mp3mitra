@@ -16,209 +16,134 @@ document.addEventListener('DOMContentLoaded', () => {
     // Array of songs. Place your MP3 files in the 'lagu/' folder.
     const songs = [
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu1.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu2.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu3.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu4.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu5.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu6.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu7.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu8.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu9.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu10.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu11.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu12.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu13.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu14.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu15.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu16.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu17.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu18.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu19.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu20.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu21.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu22.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu23.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu24.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu25.mp3'
         },
         {
-            title: 'Berkibar',
+            title: 'Mitra Statistik',
             artist: '@fhy3273',
-            src: 'lagu/lagu30.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu31.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu32.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu33.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu34.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu35.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu36.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu37.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu38.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu39.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu40.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu41.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu42.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu43.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu44.mp3'
-        },
-        {
-            title: 'Berkibar',
-            artist: '@fhy3273',
-            src: 'lagu/lagu45.mp3'
+            src: 'lagu/lagu26.mp3'
         }
     ];
 
