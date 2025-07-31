@@ -144,6 +144,156 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Mitra Statistik',
             artist: '@fhy3273',
             src: 'lagu/lagu26.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu27.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu28.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu29.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu30.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu31.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu32.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu33.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu34.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu35.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu36.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu37.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu38.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu39.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu40.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu41.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu42.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu43.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu44.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu45.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu46.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu47.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu48.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu49.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu50.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu51.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu52.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu53.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu54.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu55.mp3'
+        },
+        {
+            title: 'Mitra Statistik',
+            artist: '@fhy3273',
+            src: 'lagu/lagu56.mp3'
         }
     ];
 
